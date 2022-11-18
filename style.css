@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #1d1d1b;
+}
+
+.wrapper{
+    width: 100%;
+    height: 100%;
+}
+
+.wrapper section{
+    width: 100%;
+    height: 100vh;
+}
+
+.wrapper .scroller{
+    width: 100%;
+    overflow: hidden;
+}
+
+.wrapper section.section-one{
+    background: url(./images/01.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.section-two{
+    background: url(./images/02.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.section-three{
+    background: url(./images/03.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.section-four-1{
+    background: url(./images/04-1.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.section-four-2{
+    background: url(./images/04-2.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.section-four-3{
+    background: url(./images/04-3.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.section-four-4{
+    background: url(./images/04-4.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.section-six{
+    background: url(./images/06-1.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.section-six-2{
+    background: url(./images/06-2.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.section-seven{
+    background: url(./images/07.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.section-eight{
+    background: url(./images/08.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.section-nine{
+    background: url(./images/09.jpg) no-repeat top center;
+    background-size: contain;
+}
+
+.wrapper section.portfolio{
+    width: 1600%;
+    display: flex;
+}
+
+.wrapper section.portfolio div{
+    width: 100vw;
+    height: 100vh;
+    flex: 1 1;
+}
+
+.wrapper section.portfolio .intro{
+    background: url(./images/05.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project1{
+    background: url(./images/p1s1.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project1-2{
+    background: url(./images/p1s2.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project2{
+    background: url(./images/p2s1.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project2-2{
+    background: url(./images/p2s2.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project3{
+    background: url(./images/p3s1.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project3-2{
+    background: url(./images/p3s2.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project4{
+    background: url(./images/p4s1.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project4-2{
+    background: url(./images/p4s2.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project5{
+    background: url(./images/p5s1.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project5-2{
+    background: url(./images/p5s2.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project6{
+    background: url(./images/p6s1.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project6-2{
+    background: url(./images/p6s2.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project7{
+    background: url(./images/p7s1.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project7-2{
+    background: url(./images/p7s2.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project8{
+    background: url(./images/p8s1.jpg) no-repeat top center;
+    background-size: contain;
+}
+.wrapper section.portfolio .project8-2{
+    background: url(./images/p8s2.jpg) no-repeat top center;
+    background-size: contain;
+}
